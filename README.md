@@ -5,7 +5,7 @@
 
 Metadata audit utility for Canadian digital channels, verifying search snippet eligibility, social sharing cards, and canonical links.
 
-Developed and maintained by the digital optimization engineering practice at **TAVARDT Canada**.
+Developed and maintained by the digital optimization engineering practice at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py example.ca -json
 For ad-hoc metadata validation and real-time social card generation:
 
 * **Official Meta Tags Inspector**
-* **TAVARDT Canada Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Canadian Digital Standards and SEO Advisory
 
-For digital marketing optimization and compliance with Canadian Digital Standards and W3C Specifications, connect with the engineering group at **TAVARDT Canada**.
+For digital marketing optimization and compliance with Canadian Digital Standards and W3C Specifications, connect with the engineering group at **TAVARDT**.
 
 ***
 
