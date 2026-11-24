@@ -1,14 +1,13 @@
 # Meta Tags and Open Graph Inspector | TAVARDT Canada
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/ca/meta-tags-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Metadata audit utility for Canadian digital channels, verifying search snippet eligibility, social sharing cards, and canonical links.
 
-Developed and maintained by the digital optimization engineering practice at **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Developed and maintained by the digital optimization engineering practice at **TAVARDT Canada**.
 
----
+***
 
 ## Metadata and Social Card Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital optimization engineering practice at **[
 * **Indexation Directives**: Analyzes robot meta tags and canonical target consistency.
 * **Metadata Health Rating**: Clear 0 to 100 numerical evaluation highlighting priority content enhancements.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python meta_inspector.py example.ca
 To output structured JSON:
 
 ```bash
-python meta_inspector.py example.ca --json
+python meta_inspector.py example.ca -json
 ```
 
----
+***
 
 ## Online Diagnostic Platform
 
 For ad-hoc metadata validation and real-time social card generation:
 
-* **[Official Meta Tags Inspector](https://tools.tavardt.com/ca/meta-tags-checker/)**
-* **[TAVARDT Canada Portal](https://ag.tavardt.com/ca/)**
+* **Official Meta Tags Inspector**
+* **TAVARDT Canada Portal**
 
----
+***
 
 ## Canadian Digital Standards and SEO Advisory
 
-For digital marketing optimization and compliance with Canadian Digital Standards and W3C Specifications, connect with the engineering group at **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For digital marketing optimization and compliance with Canadian Digital Standards and W3C Specifications, connect with the engineering group at **TAVARDT Canada**.
