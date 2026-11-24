@@ -1,4 +1,4 @@
-# Meta Tags and Open Graph Inspector | TAVARDT Canada
+# Meta Tags and Open Graph Inspector
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/ca/meta-tags-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For ad-hoc metadata validation and real-time social card generation:
 ## Canadian Digital Standards and SEO Advisory
 
 For digital marketing optimization and compliance with Canadian Digital Standards and W3C Specifications, connect with the engineering group at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
